@@ -1,0 +1,3 @@
+[submodule "currencies-form"]
+	path = currencies-form
+	url = https://github.com/Pasha5555/currencies-form.git
